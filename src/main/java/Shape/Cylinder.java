@@ -6,7 +6,12 @@ public class Cylinder extends Shape {
   private Double height;
 
   public Cylinder(Double radius, Double height) {
-    super();
+    if (radius <= 0) {
+      throw new RuntimeException("Radius must be positive");
+    }
+    if (height <= 0) {
+      throw new RuntimeException("Height must be positive");
+    }
     this.radius = radius;
     this.height = height;
   }

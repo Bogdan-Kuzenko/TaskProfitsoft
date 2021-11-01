@@ -6,9 +6,11 @@ import org.junit.jupiter.api.Test;
 
 import java.util.Arrays;
 import java.util.List;
+import org.junit.runner.RunWith;
+import org.junit.runners.JUnit4;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
-
+@RunWith(JUnit4.class)
 class SortedShapeTest {
 
   SortedShape sortedShape;
@@ -41,4 +43,5 @@ class SortedShapeTest {
     List<Shape> shapes = sortedShape.sortedShapeByVolume(shapesNotSorted);
     assertEquals(listSortedShape,shapes);
   }
+
 }

@@ -7,7 +7,11 @@ public class Sphere extends Shape {
   private Double radius;
 
   public Sphere(Double radius) {
+    if (radius <= 0) {
+      throw new RuntimeException("Radius must be positive");
+    }
     this.radius = radius;
+
   }
 
   @Override
