@@ -1,0 +1,79 @@
+[ {
+  "date" : "2018-11-13T20:48:53.328Z",
+  "firstName" : "Jhon",
+  "lastnameName" : "Snow",
+  "type" : "SPEEDING",
+  "fineAmount" : 100.0
+}, {
+  "date" : "2018-11-13T20:48:53.329Z",
+  "firstName" : "Mike",
+  "lastnameName" : "Smith",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 120.0
+}, {
+  "date" : "2018-11-13T20:48:53.329Z",
+  "firstName" : "Rodger",
+  "lastnameName" : "White",
+  "type" : "EXPIRED_DRIVER_LICENSE",
+  "fineAmount" : 500.0
+}, {
+  "date" : "2018-11-13T20:48:53.330Z",
+  "firstName" : "Mike",
+  "lastnameName" : "Smith",
+  "type" : "DRUNK_DRIVER",
+  "fineAmount" : 320.0
+}, {
+  "date" : "2018-11-13T20:48:53.330Z",
+  "firstName" : "Rodger",
+  "lastnameName" : "White",
+  "type" : "SPEEDING",
+  "fineAmount" : 400.0
+}, {
+  "date" : "2018-11-13T20:48:53.330Z",
+  "firstName" : "Jhon",
+  "lastnameName" : "Snow",
+  "type" : "SPEEDING",
+  "fineAmount" : 190.0
+}, {
+  "date" : "2018-11-13T20:48:53.328Z",
+  "firstName" : "Jhon",
+  "lastnameName" : "Snow",
+  "type" : "SPEEDING",
+  "fineAmount" : 100.0
+}, {
+  "date" : "2018-11-13T20:48:53.329Z",
+  "firstName" : "Mike",
+  "lastnameName" : "Smith",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 120.0
+}, {
+  "date" : "2018-11-13T20:48:53.329Z",
+  "firstName" : "Linda",
+  "lastnameName" : "Smith",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 120.0
+}, {
+  "date" : "2018-11-13T20:48:53.329Z",
+  "firstName" : "Rodger",
+  "lastnameName" : "White",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 200.0
+}, {
+  "date" : "2018-11-13T20:48:53.330Z",
+  "firstName" : "Mike",
+  "lastnameName" : "Smith",
+  "type" : "EXPIRED_DRIVER_LICENSE",
+  "fineAmount" : 1320.0
+}, {
+  "date" : "2018-11-13T20:48:53.330Z",
+  "firstName" : "Rodger",
+  "lastnameName" : "White",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 220.0
+}, {
+  "date" : "2018-11-13T20:48:53.330Z",
+  "firstName" : "Jhon",
+  "lastnameName" : "Snow",
+  "type" : "SPEEDING",
+  "fineAmount" : 390.0
+}]

@@ -1,0 +1,25 @@
+[ {
+  "firstName" : "Jhon",
+  "lastName" : "Snow",
+  "countFines" : 20,
+  "amountFines" : 3901.64,
+  "averageAmount" : 195.082
+}, {
+  "firstName" : "Mike",
+  "lastName" : "Smith",
+  "countFines" : 20,
+  "amountFines" : 9402.19,
+  "averageAmount" : 470.1095
+}, {
+  "firstName" : "Rodger",
+  "lastName" : "White",
+  "countFines" : 20,
+  "amountFines" : 6601.76,
+  "averageAmount" : 330.088
+}, {
+  "firstName" : "Linda",
+  "lastName" : "Smith",
+  "countFines" : 5,
+  "amountFines" : 600.4,
+  "averageAmount" : 120.08
+} ]
